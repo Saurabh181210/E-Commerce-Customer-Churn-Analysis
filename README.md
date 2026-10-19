@@ -17,7 +17,7 @@ Microsoft Excel
 
 ## Key Performance Indicators (KPIs)
 
-Total Customers: 3,774
+Total Customers: 200M
 
 Churned Customers: 631
 
